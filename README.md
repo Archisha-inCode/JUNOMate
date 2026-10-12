@@ -5,7 +5,7 @@ Team Name: Sudo Apters\
 \
 **Members**\
 Archisha Gupta - @Archisha-inCode\
-Riddhima Teli - @Ridim334\
+Riddhima Teli - @Ridim334
 
 **Problem**\
 Classes! 75% Attendance!  EVERYBODY'S NIGHTMARE!\
