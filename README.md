@@ -9,7 +9,7 @@ Riddhima Teli - @Ridim334\
 \
 **Problem**\
 Classes! 75% Attendance!  EVERYBODY'S NIGHTMARE!\
-\We spend a lot of our time just thinking  out about hitting that 75 and then we just put in so much effort calculating what all classes to attend and what all can be skipped.
+We spend a lot of our time just thinking  out about hitting that 75 and then we just put in so much effort calculating what all classes to attend and what all can be skipped.
 When I ask my seniors what is one of their regrets from their first year, you wouldn't believe what they said. Their biggest regret turned out to be the fact that
 they attended more classes than necessary or that they did not maintain their attendance record properly causing them to have major inconviniences with the ERP office and their professors that too right before exams.\
 \
