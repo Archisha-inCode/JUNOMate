@@ -1,8 +1,7 @@
 **Project Name: JUNOMate**\
 \
 **Team**\
-Team Name: Su
-do Apters\
+Team Name: Sudo Apters\
 \
 **Members**\
 Archisha Gupta - @Archisha-inCode\
@@ -50,17 +49,17 @@ Our extension is the most accurate thing so far. You won't be caught by surprise
 | Tooling | Node.js and npm | Runs the React dev server | 
 \
 **How to run**\	
-1. Download the zip file.\
-2. Extract the file.\
-3. Open Chrome and go to `chrome://extensions`.\
-4. Turn on **Developer mode** in the top-right corner.\
-5. Click **Load unpacked** and select the folder containing the extension files.\
-6. Click the puzzle-piece icon in Chrome and pin the extension.\
-7. Log in to Juno and open the attendance page (`studentCourses.htm`).\
-8. Press **F5** to refresh the page.\
-9. Open the extension popup and click **Rescan**.\
-10. Check that the attendance total matches Juno's.\
-11. Check the extension popup for guidance on which classes you can skip, or use the dashboard to explore attendance scenarios and see how many classes you need to attend.\
+1. Download the zip file.
+2. Extract the file.
+3. Open Chrome and go to `chrome://extensions`.
+4. Turn on **Developer mode** in the top-right corner.
+5. Click **Load unpacked** and select the folder containing the extension files.
+6. Click the puzzle-piece icon in Chrome and pin the extension.
+7. Log in to Juno and open the attendance page (`studentCourses.htm`).
+8. Press **F5** to refresh the page.
+9. Open the extension popup and click **Rescan**.
+10. Check that the attendance total matches Juno's.
+11. Check the extension popup for guidance on which classes you can skip, or use the dashboard to explore attendance scenarios and see how many classes you need to attend.
 \
 **Notes**
 Future Features: If a leave is being planned in the future, the software considers that too and makes suggestions accordingly.\
