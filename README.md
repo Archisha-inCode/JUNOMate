@@ -6,15 +6,15 @@ Team Name: Sudo Apters\
 **Members**\
 Archisha Gupta - @Archisha-inCode\
 Riddhima Teli - @Ridim334\
-\
+
 **Problem**\
 Classes! 75% Attendance!  EVERYBODY'S NIGHTMARE!\
 We spend a lot of our time just thinking  out about hitting that 75 and then we just put in so much effort calculating what all classes to attend and what all can be skipped.
 When I ask my seniors what is one of their regrets from their first year, you wouldn't believe what they said. Their biggest regret turned out to be the fact that
 they attended more classes than necessary or that they did not maintain their attendance record properly causing them to have major inconviniences with the ERP office and their professors that too right before exams.\
-\
+
 This is also a problem I have personally faced. I attend classes to hit that 75 but then I see that my attendance increases by a really small margin BUT when I miss a class, I am down by a large margin.\
-\
+
 So, what if, this whole issue could be avoided? The whole process optimized, such that, you no longer have to worry about calculating attendance and not having to break your head over what all classes should be attended and what all classes could be skipped?\
 \ 
 **Solution**\
@@ -25,10 +25,10 @@ This is where our solution comes in. We have built a chrome extension called **J
 \
 **How does our solution work?**\
 1) The chrome extension (Also works on Brave Browser) can access the data (Your attendance record and time table) in your JUNO from your browser (You have to log into your JUNO account on the site 
-https://muerp.mahindrauniversity.edu.in/).\ 
-2) Now it extracts the data required from the site.\
+https://muerp.mahindrauniversity.edu.in/).
+2) Now it extracts the data required from the site.
 3) It processes the data it has extracted in order to make suggestions on what all classes you need to attend to fulfill the individual and overall attendance requirement, and what all classes can be skipped to be saving you time.
-\
+
 **Additional Features**\
 
 User can select what all classes they cannot attend in the future, which the model will take into consideration and come up with a plan for the user accordingly.\
